@@ -1,3 +1,6 @@
 Reflections for lesson 2
 
 You can use git diff and git diff -staged
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When experimenting 
