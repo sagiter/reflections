@@ -1,1 +1,3 @@
 Reflections for lesson 2
+
+You can use git diff and git diff -staged
